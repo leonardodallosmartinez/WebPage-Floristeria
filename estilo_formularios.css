@@ -1,0 +1,63 @@
+body {
+	 background-image: url("flores3.jpg");
+	 background-size: 85%;
+	 background-attachment: scroll;
+	
+ }
+	table input, select , textarea{
+		border: 2px solid #58adc9;
+		border-radius: 5px;
+		background-color: #f7f0f2
+		cursor: pointer;
+		-webkit-transition-duration: 0.4s;
+		transition-duration: 0.4s;
+		height: 100%;
+		width: 75%;
+		
+	}
+	table input:hover, select:hover, textarea:hover {
+		background-color: #58adc9;
+		color: white;
+		cursor: pointer;
+	}
+	
+	 input, button{
+		border: 2px solid green;
+		border-radius: 5px;
+		cursor: pointer;
+		lightblue;
+		
+	}
+	
+	input:hover, button:hover {
+		background-color: green;
+		color: white;		
+	}	
+.renglon1 {
+background-color:  #c3431c;
+color: white;
+}
+.renglon2 {
+	background-color: #e9dad5 ;
+	color: black;
+}
+tr {
+	font-family: cursive;
+	font-size: 12px;
+	
+}
+td{
+	border: 3px solid  #9d8b85;
+	border-radius: 7px;
+}
+	
+.tabla{
+		opacity:0.85;
+		font-family: cursive;
+		font-size: 12px;
+		font-weight: bold;
+		border-radius: 5px;
+		width:75%;
+		margin:auto;
+		
+}

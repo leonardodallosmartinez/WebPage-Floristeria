@@ -1,0 +1,102 @@
+* {
+				margin:0px;
+				padding:0px;
+			}
+body {
+	 background-image: url("flores2.jpg");
+	 background-size: ;
+	 background-attachment: scroll;
+	
+ }
+ 
+ }
+ #feed{
+	 color: white;	 
+ }
+			
+			
+*{
+box-sizing: border-box;				
+			}
+			
+.subimagenes1 {
+float:left;
+width: 33.33%;
+padding: 5px;
+border: 5px solid red;
+border-radius: 7px;
+margin: 22px;
+background-color:  #c1826c;	
+}
+.imagenes1{
+	diaplay: block;
+}
+.imagenes1::after {
+content: "";
+clear: both;
+display: table;
+}
+.subimagenes2 {
+float:left;
+width: 33.33%;
+padding: 5px;
+border: 5px solid #af27a1 ;
+border-radius: 7px;
+margin: 22px;
+background-color:  #d43bc4 ;	
+}
+.imagenes2{
+	diaplay: block;
+}
+.imagenes2::after {
+content: "";
+clear: both;
+display: table;
+}
+
+.mision {
+	color: white;
+	display: flex;	
+	}
+.submision1 {
+float:left;
+width: 31%;
+padding: 5px;
+background-color:  #d43bc4 ;
+font-size: 25px;
+margin: 22px;
+font-family: cursive;
+border: 5px solid #af27a1;
+border-radius: 7px;
+text-align: center;
+}
+.submision2 {
+float:left;
+width: 31%;
+padding: 5px;
+background-color:  #58adc9;
+font-size: 25px;
+margin: 22px;
+font-family: cursive;
+border: 5px solid   #4a7786;
+border-radius: 7px;
+text-align: center;
+}
+.submision3 {
+float:left;
+width: 31%;
+padding: 5px;
+background-color:  #c1826c;
+font-size: 25px;
+margin: 22px;
+font-family: cursive;
+border: 5px solid red;
+border-radius: 7px;
+}
+.subtitulo{
+font-size: 45px;
+text-align:center;	
+}
+
+
+
